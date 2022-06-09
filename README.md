@@ -22,6 +22,7 @@ The following section will list out all kinds of data that the app can collect f
 If you have any concerns about your privacy caused by this app or want to know more about the privacy policy, please send me an email or text me on my Twitter.
 
 Yours sincerely,
+
 Nonoka
 
 Email: [Nonoka](mailto:nonoka9002@gmail.com?subject=[Animage]%20About%20Privacy%20policies)
